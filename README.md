@@ -1,10 +1,12 @@
 **APCSA Final Project: NotchWar**
+
 *Author: Michi Tanaka, mt50737@pausd.us*
+
 This repository is to store my Final project for my APCSA class.
 
 **Contents**
 *Main.java*
-  - Main driver of the game
+  - The main driver of the game
 *Player.java*
   - Extends queue data structure
   - Stores the hand for each player
